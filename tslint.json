@@ -1,0 +1,13 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+    ],
+    "jsRules": {},
+    "rules": {
+        "indent": [
+            true,
+            "tabs"
+        ]
+    },
+    "rulesDirectory": []
+}

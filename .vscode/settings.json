@@ -1,0 +1,10 @@
+// 既定の設定とユーザー設定を上書きするには、このファイル内に設定を挿入します
+{
+	  // CodeLens の参照を有効/無効にします。TypeScript 2.0.6 以上が必要です。
+  "typescript.referencesCodeLens.enabled": true,
+
+  // CodeLens の実装を有効/無効にします。TypeScript 2.2.0 以上が必要です。
+  "typescript.implementationsCodeLens.enabled": true,
+
+  "typescript.format.enable": true
+}
